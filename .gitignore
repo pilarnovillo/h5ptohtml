@@ -1,0 +1,14 @@
+# Ignore all .log files
+*.log
+
+# Ignore the node_modules directory
+packages/h5p-html-exporter/node_modules
+
+# Ignore OS-specific files
+# .DS_Store
+
+# Ignore compiled Python files
+# *.js
+
+# *.test.ts
+
